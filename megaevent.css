@@ -49,7 +49,7 @@ body {
 }
 
 .div1 .booktickets a  {
-    background-color: rgb(146, 224, 56);
+    background-color: rgb(224, 62, 56);
     border-radius: 50px;
     padding: 25px;
     font-size: 26px;
@@ -57,7 +57,7 @@ body {
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
